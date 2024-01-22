@@ -1,11 +1,11 @@
 import React from "react";
-import "./nav-css/nav.css";
-import ActiveLink from "../shared/ActiveLink";
-import NavSm from "./NavSm";
+import "../nav-css/nav.css";
+import ActiveLink from "../../shared/ActiveLink";
+
 const NavLg = () => {
   return (
     <nav>
-      <div className="nav-container w-full h-full bg-base-200 hidden lg:block lg:flex justify-between items-center px-4 py-4">
+      <div className="nav-container w-full h-full bg-base-200  flex justify-between items-center px-4 py-4">
         <div className="logo">
           <h1 className="text-4xl font-bold font-mono">Flavour Fiesta</h1>
         </div>
@@ -31,7 +31,6 @@ const NavLg = () => {
           <h1>Login</h1>
         </div>
       </div>
-      <NavSm></NavSm>
     </nav>
   );
 };
