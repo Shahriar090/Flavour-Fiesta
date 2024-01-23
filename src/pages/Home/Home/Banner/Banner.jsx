@@ -7,8 +7,8 @@ import img2 from "../../../../../src/assets/Banner/banner-2.png";
 import img3 from "../../../../../src/assets/Banner/banner-3.png";
 const Banner = () => {
   return (
-    <div>
-      <Carousel autoPlay interval={3000} infiniteLoop>
+    <div className="pt-0 lg:pt-16">
+      <Carousel autoPlay interval={3000} infiniteLoop centerMode>
         <div>
           <img src={img1} />
         </div>
