@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "item": "Stories",
+    "itemImg": "https://i.ibb.co/GPx2PmT/stories.jpg",
+    "itemDes": "Experience a culinary journey through our chef's stories, each dish telling a unique tale of flavors and creativity."
+  },
+  {
+    "id": 2,
+    "item": "Main Course",
+    "itemImg": "https://i.ibb.co/Fg1Fbks/main-course.jpg",
+    "itemDes": "Indulge in our savory main course selection, crafted with the finest ingredients to satisfy your palate and leave you craving for more."
+  },
+  {
+    "id": 3,
+    "item": "Desserts",
+    "itemImg": "https://i.ibb.co/QKhYxRr/desserts.jpg",
+    "itemDes": "Sweeten your day with our delightful desserts, a symphony of tastes and textures that will surely be the perfect ending to your meal."
+  },
+  {
+    "id": 4,
+    "item": "Drinks",
+    "itemImg": "https://i.ibb.co/gMztw97/drinks.jpg",
+    "itemDes": "Quench your thirst with our refreshing drinks menu, featuring a variety of beverages from classic favorites to innovative concoctions."
+  }
+]
