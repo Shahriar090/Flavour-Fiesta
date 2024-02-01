@@ -1,0 +1,14 @@
+@layer base {
+  .card-container {
+    @apply flex flex-col gap-6 shadow-lg p-4 rounded-md;
+  }
+  .card-img {
+    @apply w-full h-auto lg:h-[250px] rounded-md;
+  }
+  .card-title {
+    @apply text-xl lg:text-2xl font-bold text-black font-mono;
+  }
+  .card-des {
+    @apply text-lg font-sans text-gray-700 max-w-[40ch];
+  }
+}

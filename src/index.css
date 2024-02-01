@@ -1,9 +1,4 @@
+@import "../src/css/items.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* @layer base {
-  h1 {
-    @apply text-5xl font-bold font-serif
-  }
-} */
